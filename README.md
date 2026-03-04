@@ -1,8 +1,8 @@
-### Hi there 👋
+### Olá pessoal 👋
 
-I'm Bruna ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
+Me chamo Bruna ([18] y.o) ! :heart: 
 
-I'd like to do project that has relation to anime. :ghost:
+Iniciando faculdade de ads, preparada para aprender! :smile:
 
 :page_with_curl: I'm currently learning:
 <br><br>
