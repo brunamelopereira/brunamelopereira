@@ -6,8 +6,7 @@ Iniciando faculdade de ads, preparada para aprender! :smile:
 
 :page_with_curl: Estou interessada em aprender:
 <br><br>
-![Java](<img width="166" height="304" alt="image" src="https://github.com/user-attachments/assets/7383290f-b7cf-4e85-8c5e-aa48b891b4d8" />
-)
+![Java]()
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
