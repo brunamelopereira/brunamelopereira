@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋,seja bem vindo(a) ao meu github! </h1>
-<h3 align="center">Atualmente cursando ADS | 18 anos</h3>
+<h3 align="center">Atualmente cursando ADS | 18 anos!</h3>
 
 - 📫 Email para contato: **brunamelopereira@08gmail.com**
 
